@@ -2,32 +2,14 @@
 name: Feature request2019
 about: Suggest an idea for this project
 title: ''
-labels: Epic
-assignees: zhouxi-jzheng
+labels: ''
+assignees: ''
 
 ---
 
-Hi there,
+提交人填写(符上查看版本号的方法)：
+- [ 发现版本：0.7.3 ]
+- [ 发现commit：xxxx ]
 
-please note that this is an issue tracker reserved for bug reports and feature requests.
-
-#### System information
-
-PlatON version: `platon version`
-OS & Version: Windows/Linux/OSX
-Commit hash : (if `develop`)
-
-#### Expected behaviour
-
-
-#### Actual behaviour
-
-
-#### Steps to reproduce the behaviour
-
-
-#### Backtrace
-
-````
-[backtrace]
-````
+修复人填写：
+- [ 修复版本：0.7.3、0.7.4]
